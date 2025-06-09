@@ -1,0 +1,5 @@
+streamlit
+requests
+SpeechRecognition
+pydub
+pyttsx3
